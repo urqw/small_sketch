@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>C3E1F8495A154D3D8B8CB7DE6868D582</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Маленькая зарисовка о больших чувствах</title>
+			<author>Вета</author>
+			<language>ru</language>
+			<firstpublished>2017-02-15</firstpublished>
+			<genre>Сказка</genre>
+			<group>URQ</group>
+			<description>Они сидели вместе на железной скамье и пили ароматный масляный чай с шоколадками. Китайский робот-сборщик и его подопечный, компрессор с идентификационным номером №503D677787, понимали друг друга так, как могут только два китайских устройства...<br/>Но вот пришел час расставания...<br/>Игра говорит, что её написали Ajenta Arrow, Серый Волк, Saint и MAlischka. Это была попытка помирить участников дуэли и не соответствует действительности.<br/>Автор: Вета, иллюстратор: Евг.</description>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#small_sketch</url>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-25</originated>
+		</colophon>
+	</story>
+</ifindex>
